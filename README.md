@@ -1,6 +1,6 @@
 # Scrambled (Polylot Notes)
 
-다국어 메모 공유 서비스 **Polylot Notes**의 소스코드입니다.
+다국어 메모 공유 서비스 **Polylot Notes**의 소스코드입니다.  
 루트 경로에 존재하는 `flag`에 저장된 플래그 `WSL{...}`를 획득하세요.
 
 ## 서비스 구조
