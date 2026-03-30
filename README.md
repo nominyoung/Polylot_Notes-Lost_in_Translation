@@ -1,4 +1,4 @@
-# Scrambled (Polylot Notes) — Source Code
+# Scrambled (Polylot Notes)
 
 다국어 메모 공유 서비스 **Polylot Notes**의 소스코드입니다.
 
